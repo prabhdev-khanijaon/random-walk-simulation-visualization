@@ -1,4 +1,4 @@
-# Random Walk Simulation Visualization
+# Random Walk Simulation & Visualization
 
 
 # Overview:
